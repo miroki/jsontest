@@ -50,5 +50,20 @@
     "password": "666",
     "approved": true 
   }
-]
+],
+  "teachers" : [{
+    "id": 1,
+    "name": "Chartchai",
+    "surname": "Doungsa-ard",
+    "email": "dto@cmu.ac.th",
+    "password": "dto"
+    },
+    {
+      "id": 2,
+      "name": "Tui",
+      "surname": "Tui loves teaching 321",
+      "email": "tui@cmu.ac.th",
+      "password": "321"
+    }
+  ]
 }
