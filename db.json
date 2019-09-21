@@ -29,6 +29,26 @@
     "email": "wills@cmu.ac.th",
     "password": "willsmith",
     "approved": false 
+  },{
+    "id": 4,
+    "studentId": "Stu-04",
+    "name": "That",
+    "surname": "Cat",
+    "image": "https://i.kym-cdn.com/entries/icons/facebook/000/005/041/eDyVn.jpg",
+    "dob": "new Date(1998,2,4)",
+    "email": "cat@cmu.ac.th",
+    "password": "777",
+    "approved": true 
+  },{
+    "id": 5,
+    "studentId": "Stu-05",
+    "name": "Harold",
+    "surname": "Hiding his pain",
+    "image": "https://pbs.twimg.com/profile_images/540223285221277696/Xlk9rNfl.jpeg",
+    "dob": "new Date(1995,9,9)",
+    "email": "harold@cmu.ac.th",
+    "password": "666",
+    "approved": true 
   }
 ]
 }
