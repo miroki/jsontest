@@ -65,5 +65,19 @@
       "email": "tui@cmu.ac.th",
       "password": "321"
     }
-  ]
+  ],
+  "activities" : [ {
+    "id": 1,
+    "name": "Loy Kratong",
+    "location": "CAMT Fountain",
+    "description": "Enjoy Loy Kratong with international students",
+    "hostTeacher": 1,
+    "regisPeriodStart": "new Date(2019,10,9)",
+    "regisPeriodEnd": "new Date(2019,11,5)",
+    "activityPeriodStart": "new Date(2019,11,6,8,0)",
+    "activityPeriodEnd": "new Date(2019,11,6,14,0)",
+    "waitingStudents": [1,2],
+    "enrolledStudents": [4,5]
+  }
+]
 }
