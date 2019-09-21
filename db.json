@@ -1,66 +1,66 @@
 {
   students: [{
-    'id': 1,
-    'studentId': 'Stu-01',
-    'name': 'Jon',
-    'surname': 'Tron',
-    'image': 'https://pbs.twimg.com/profile_images/1089324240929779719/EG_cTZYk_400x400.jpg',
-    'dob': 'new Date(1990,3,24)',
-    'email': 'jontron@cmu.ac.th',
-    'password': '12345',
-    'approved': true
+    "id": 1,
+    "studentId": "Stu-01",
+    "name": "Jon",
+    "surname": "Tron",
+    "image": "https://pbs.twimg.com/profile_images/1089324240929779719/EG_cTZYk_400x400.jpg",
+    "dob": "new Date(1990,3,24)",
+    "email": "jontron@cmu.ac.th",
+    "password": "12345",
+    "approved": true
   }, {
-    'id': 2,
-    'studentId': 'Stu-02',
-    'name': 'PepsiMan',
-    'surname': 'Gamer',
-    'image': 'https://vignette.wikia.nocookie.net/advinmobius/images/5/58/Pepsi_man.png/revision/latest?cb=20180928182119',
-    'dob': 'new Date(1999,3,4)',
-    'email': 'pepsiman@cmu.ac.th',
-    'password': '54321',
-    'approved': true
+    "id": 2,
+    "studentId": "Stu-02",
+    "name": "PepsiMan",
+    "surname": "Gamer",
+    "image": "https://vignette.wikia.nocookie.net/advinmobius/images/5/58/Pepsi_man.png/revision/latest?cb=20180928182119",
+    "dob": "new Date(1999,3,4)",
+    "email": "pepsiman@cmu.ac.th",
+    "password": "54321",
+    "approved": true
   },{
-    'id': 3,
-    'studentId': 'Stu-03',
-    'name': 'Will',
-    'surname': 'Smith',
-    'image': 'https://www.biography.com/.image/t_share/MTE4MDAzNDEwNzQzMTY2NDc4/will-smith-9542165-1-402.jpg',
-    'dob': 'new Date(1999,3,4)',
-    'email': 'wills@cmu.ac.th',
-    'password': 'willsmith',
-    'approved': false //Wait to be approved or else he can't login, if rejected then game over.
+    "id": 3,
+    "studentId": "Stu-03",
+    "name": "Will",
+    "surname": "Smith",
+    "image": "https://www.biography.com/.image/t_share/MTE4MDAzNDEwNzQzMTY2NDc4/will-smith-9542165-1-402.jpg",
+    "dob": "new Date(1999,3,4)",
+    "email": "wills@cmu.ac.th",
+    "password": "willsmith",
+    "approved": false //Wait to be approved or else he can"t login, if rejected then game over.
   }
 ],
   teachers: [
     {
-    'id': 1,
-    'name': 'Chartchai',
-    'surname': 'Doungsa-ard',
-    'email': 'dto@cmu.ac.th',
-    'password': 'dto'
+    "id": 1,
+    "name": "Chartchai",
+    "surname": "Doungsa-ard",
+    "email": "dto@cmu.ac.th",
+    "password": "dto"
     },
     {
-      'id': 2,
-      'name': 'Tui',
-      'surname': 'Tui loves teaching 321',
-      'email': 'tui@cmu.ac.th',
-      'password': '321'
+      "id": 2,
+      "name": "Tui",
+      "surname": "Tui loves teaching 321",
+      "email": "tui@cmu.ac.th",
+      "password": "321"
     }
 
   ],
   activities: [
 {
-    'id': 1,
-    'name': "Loy Kratong",
-    'location': "CAMT Fountain",
-    'description': 'Enjoy Loy Kratong with international students',
-    'hostTeacher': 1,
-    'regisPeriodStart': 'new Date(2019,10,9)',
-    'regisPeriodEnd': 'new Date(2019,11,5)',
-    'activityPeriodStart': 'new Date(2019,11,6,8,0)',
-    'activityPeriodEnd': 'new Date(2019,11,6,14,0)',
-    'waitingStudents': [],
-    'enrolledStudents': []
+    "id": 1,
+    "name": "Loy Kratong",
+    "location": "CAMT Fountain",
+    "description": "Enjoy Loy Kratong with international students",
+    "hostTeacher": 1,
+    "regisPeriodStart": "new Date(2019,10,9)",
+    "regisPeriodEnd": "new Date(2019,11,5)",
+    "activityPeriodStart": "new Date(2019,11,6,8,0)",
+    "activityPeriodEnd": "new Date(2019,11,6,14,0)",
+    "waitingStudents": [],
+    "enrolledStudents": []
   }  
   
   ]
