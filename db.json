@@ -28,7 +28,7 @@
     "dob": "new Date(1999,3,4)",
     "email": "wills@cmu.ac.th",
     "password": "willsmith",
-    "approved": false //Wait to be approved or else he can"t login, if rejected then game over.
+    "approved": false 
   }
 ],
   teachers: [
